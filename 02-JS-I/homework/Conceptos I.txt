@@ -1,0 +1,31 @@
+homework Conceptos basicos
+Variables: 
+Una variable es la forma de almacenar un valor para utilizarlo mas tarde. JavaScript tiene tres tipos de declaraciones de variables.
+
+var
+Declara una variable, opcionalmente la inicia a un valor.
+let
+Declara una variable local con ámbito de bloque, opcionalmente la inicia a un valor.
+const
+Declara un nombre de constante de solo lectura y ámbito de bloque.
+
+
+
+STRINGS
+Las Strings son conocidas como cadena de datos, pueden ser palabras, números, emojis, etc. Su principal caracteristica es que estan contenidos entre comillas ' '.
+
+FUNCIONES
+
+Las funciones son tipos particulares de objetos. Son tambien llamadas objetos invocables.
+ Las utilizamos para establecer un procedimiento o una acción sobre una variable.
+  Por ejemplo Return o devolver. Para poder ver el resultado en pantalla de una funcion o el resultado dado por parámetros. 
+
+  Argumentos
+  Los argumentos son valores, información que le vamos pasando a las funciones, sin ellos tendriamos codigos estáticos. 
+
+  
+Declaraciones IF
+Existen mecanismos para comprobar la que se cumplan las condiciones para realizar una tarea de control. Para eso aparece IF, con el que decimos "si se cumple esta condicón, hacemos tal o cual cosa".
+
+Valores Booleanos:
+Al igual que los números y las Strings son un tipo de valor específico. Estan basados en el sistema de codigo binario (01010011). Aqui los llamamos "true" y "false", significan Activar o Desactivar.

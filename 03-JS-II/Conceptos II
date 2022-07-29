@@ -1,0 +1,12 @@
+homework II	
+
+For
+
+	La mayoria de los softwares tienen un protocolo o función llamada bucle. En javascript existe un bucle llamado "FOR", que ejecuta o evalua una expresión una y otra vez hasta que se cumpla con la condición de parada. Un bucle For esta compuesto por una sintaxis que consiste en: 1) declarar una variable y establecer un punto de partida, 2) Establecer una condición, por ejemplo que se ejecute a lo largo de un array (array.lenght) o que se ejecute siempre y cuando se menor a 100( i<100) y 
+3) indicar que el bucle recorra la secuencia, la puesta en marcha, esto lo hacemos con el operador "++" (sumar uno). Ej : for ( var i=0 ; i < 10 ; i++);
+ 						  			  							    (1)	   (2)      (3) 
+
+Condicionales
+ 	Dentro de nuetros bucles tenemos condicionales con los cuales vamos a instruir al operador de que forma ejecutar el bucle. El primero es && o (AND) un operador que evaluara a partir de dos expresiones y devolverá "true" si ambas expresiones lo son, de lo contrario, si una de ellas es falsa, devolverá "false".
+ 	El operador (OR) està determinado por " || " y nos devolverá una expresión verdadera si la primera lo es. Es decir si la primera opción es verdadera no evalua la segunda y si la primera opcion es falsa, evaluara la segunda buscando ver si es verdadera. Solamente si ambas expresiones son falsas nos dará False. 
+ 	Por ultimo tenmos la expresión (!) o "NOT" que nos arrojarà un valor booleano opuesto al que le indicamos. Sirve para determinar un cambio de valor opuesto. 

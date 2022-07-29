@@ -1,0 +1,27 @@
+homework IV
+
+
+Objetos. Los objetos y los arrays son contenedores de información con diferencias, mientras que los arrays pueden contener datos multiples relacionados con otros, los objetos solo pueden contner un solo tipo de información o referido a una sola cosa. Los objetos a diferencia de los arrays, se instancian con scopes "{" y guardan una caracteristica puntual el par "key : value". Ej: var objeto {
+						nombre: nombre,
+						modelo: modelo;
+						fabrica: fabrica,
+						año: año
+						industriaArgentina: true, };
+
+
+
+Propiedad y Método
+ 	JavaScript está diseñado en un paradigma simple basado en objetos. Un objeto es una colección de propiedades, y una propiedad es una asociación entre un nombre (o clave) y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método. Un metodo puede describirse como una funcion guardada dentro de un objeto y que se llama a travès de un punto. Ej .leng ; .push; .pop. 
+
+
+Notación de punto vs notación de corchetes: La notación es el método para acceder al valor del par "key : value"
+
+ 	La notación de punto consiste en llamar al objeto seguido de un punto y el valor. Ej: objeto.industriaArgentina,  
+
+	Con la notación de corchetes debemos llamar al Objeto seguido de la clave entre brakets y dentro de una string.  ej: objeto['fabrica'];
+
+
+ 
+bucle For..in
+
+Sirve para iterar sobre cada elemento clave:valor dentro de nuestro objeto. La sintaxis es la siguiente: Declaración de la variable, nombre de la clave, la parabra "in" y el nombre del objeto, todo entre parentesis. De esta forma se recorrerán todas las palabras clave dentro de un objeto. Ej for (let clave in usuario){ ;

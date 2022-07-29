@@ -1,0 +1,5 @@
+homework III
+
+Arrays
+Los arrays no son otra cosa que contenedores de información dentro de nuestro codigo. Existen infinitas opciones de Arrays, por ejemplo podemos podemos contruir un array para almacenar la información de un auto o de un pez. Lo vamos a determinar asignandole un nombre y cargar entre brakets[] su información. Tambien se puede entender al array como la estructura de una tabla en la que cargamos una clasificación para luego asignarle datos específicos. ej. 
+const pecesTropicales = [habitat, temperatura, alimentación, tamaño, ph, expectativa de vida] ; var autosArgentina = [marca, modelo, segmento, motor, kilometraje]
